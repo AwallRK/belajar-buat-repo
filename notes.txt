@@ -4,3 +4,4 @@
 - git add . => prepare semua file yang terupdate utk diupload
 - git commit -m "tugas challenge 1"
 - git push origin "nama branch"
+- git checkout -b nama-branch-baru
