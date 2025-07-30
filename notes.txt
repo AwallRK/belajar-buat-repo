@@ -2,3 +2,4 @@
 - npm init -y => menjelaskan projek kita pakai package apa aja
 - remote dengan git remote add origin <nama-dari-repo-githubnya>
 - git add . => prepare semua file yang terupdate utk diupload
+- git commit -m "tugas challenge 1"
