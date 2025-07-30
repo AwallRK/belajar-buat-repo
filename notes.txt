@@ -3,3 +3,4 @@
 - remote dengan git remote add origin <nama-dari-repo-githubnya>
 - git add . => prepare semua file yang terupdate utk diupload
 - git commit -m "tugas challenge 1"
+- git push origin "nama branch"
